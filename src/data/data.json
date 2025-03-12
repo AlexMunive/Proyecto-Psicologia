@@ -1,0 +1,184 @@
+{
+  "Header": {
+    "title": "¿Buscas ayuda psicológica?",
+    "paragraph": ""
+  },
+  "About": {
+    "paragraph": "Soy Ivett, psicóloga clínica con una maestría en intervención y diagnóstico del niño y adolescente. Cuento con formación en Terapia de Aceptación y Compromiso (ACT) y más de cuatro años de experiencia trabajando con niños, adolescentes, adultos y adultos mayores en los ámbitos clínico, educativo y social. A lo largo de mi trayectoria profesional, he tenido la oportunidad de conocer diversas realidades, comprendiendo que cada persona es un mundo por descubrir. Amo mi profesión y me apasiona acompañar a las personas en su proceso de crecimiento. Ver sus avances es una satisfacción que, como profesional, me llena de felicidad.",
+    "Why": [
+      "Lorem ipsum dolor",
+      "Tempor incididunt",
+      "Lorem ipsum dolor",
+      "Incididunt ut labore"
+    ],
+    "Why2": [
+      "Aliquip ex ea commodo",
+      "Lorem ipsum dolor",
+      "Exercitation ullamco",
+      "Lorem ipsum dolor"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/historial/historial1.jpg",
+      "smallImage": "img/historial/historial1.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/historial/historial2.jpg",
+      "smallImage": "img/historial/historial2.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/historial/historial3.jpg",
+      "smallImage": "img/historial/historial3.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/historial/historial4.jpg",
+      "smallImage": "img/historial/historial4.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/historial/historial5.jpg",
+      "smallImage": "img/historial/historial5.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/historial/historial6.jpg",
+      "smallImage": "img/historial/historial6.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/historial/historial7.jpg",
+      "smallImage": "img/historial/historial7.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/historial/historial8.jpg",
+      "smallImage": "img/historial/historial8.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/historial/historial9.jpg",
+      "smallImage": "img/historial/historial9.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-tasks",
+      "name": "Programas y Talleres",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-street-view",
+      "name": "Terapia Psicológica",
+      "text": "Terapia individual, de pareja, familiar e infantil para abordar problemas emocionales, de conducta y mejorar relaciones."
+    },
+    {
+      "icon": "fa fa-child",
+      "name": "Evaluación y Diagnóstico",
+      "text": "Evaluaciones psicológicas para detectar trastornos mentales, neuropsicológicas para problemas cognitivos y psicométricas para medir inteligencia y personalidad."
+    },
+    {
+      "icon": "fa fa-line-chart",
+      "name": "Capacitaciones",
+      "text": "Capacitaciones en las diferentes ramas de la psicología , como educativa, clínica , social entre otras."
+    },
+    {
+      "icon": "fa fa-heartbeat",
+      "name": "Psicoterapia Especializada",
+      "text": "Diversos enfoques terapéuticos como TCC, ACT, Gestalt, humanista y psicoanalítica."
+    },
+    {
+      "icon": "fa fa-graduation-cap",
+      "name": "Apoyo en el Ámbito Educativo y Laboral",
+      "text": "Orientación vocacional, evaluación de aprendizaje y adaptación, y psicología organizacional para el bienestar laboral."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/user2.png",
+      "text": "\"La atención es muy buena, te da mucha confianza , aborda de manejar adecuada las sesiones.\"",
+      "name": "Sofía Manrique"
+    },
+    {
+      "img": "img/testimonials/user1.png",
+      "text": "\"Desde que entré a la sesión me sentí cómodo , ya que la psicóloga te da esa confianza.\"",
+      "name": "Edsonn Gómez"
+    },
+    {
+      "img": "img/testimonials/user2.png",
+      "text": "\" lleve a mi hijo de 5 años con la psicóloga Munive , tuvo mucha paciencia durante las sesiones , me explicó el motivo del problema y cómo tratar de abordarlo en casa recomendando, es una muy buena psicóloga.\"",
+      "name": "Míriam Rojas"
+    },
+    {
+      "img": "img/testimonials/user1.png",
+      "text": "\" yo fui con la psicóloga por un tema de duelo, ya que fue una etapa muy difícil , siempre está dispuesta a escuchar a los demás y brindar el soporte emocional adecuado, recomendado..\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/user1.png",
+      "text": "\" La psicóloga me permitió a fortalecer mis habilidades sociales , ya que se me dificultaba para relacionarme con los demás , avance en mi seguridad y autoestima, recomiendo a la psicóloga Ivett.\"",
+      "name": "Rodrigo Moreno"
+    },
+    {
+      "img": "img/testimonials/user2.png",
+      "text": "\"asistí por tema de dependencia emocional, la psicóloga te da la confianza desde el día uno agradezco todo el proceso de sanar . Hoy en día soy otra persona más segura de mi misma gracias a la doctora.\"",
+      "name": "Maribel Soto"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-user",
+      "title": "ESPECIALISTA CAPACITADA",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-laptop",
+      "title": "ATENCIÓN PRESENCIAL Y VIRTUAL",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-building",
+      "title": "SEDE EN LIMA",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-credit-card",
+      "title": "COSTOS ACCESIBLES",
+      "text": ""
+    }
+  ]
+}
