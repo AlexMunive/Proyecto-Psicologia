@@ -4,7 +4,7 @@
     "paragraph": ""
   },
   "About": {
-    "paragraph": "Soy Ivett, psicóloga clínica con una maestría en intervención y diagnóstico del niño y adolescente. Cuento con formación en Terapia de Aceptación y Compromiso (ACT) y más de cuatro años de experiencia trabajando con niños, adolescentes, adultos y adultos mayores en los ámbitos clínico, educativo y social. A lo largo de mi trayectoria profesional, he tenido la oportunidad de conocer diversas realidades, comprendiendo que cada persona es un mundo por descubrir. Amo mi profesión y me apasiona acompañar a las personas en su proceso de crecimiento. Ver sus avances es una satisfacción que, como profesional, me llena de felicidad.",
+    "paragraph": "Soy Ivett, psicóloga clínica con una maestría en intervención y diagnóstico del niño y adolescente. Cuento con formación en Terapia de Aceptación y Compromiso (ACT) y más de seis años de experiencia trabajando con niños, adolescentes, adultos y adultos mayores en los ámbitos clínico, educativo y social. A lo largo de mi trayectoria profesional, he tenido la oportunidad de conocer diversas realidades, comprendiendo que cada persona es un mundo por descubrir. Amo mi profesión y me apasiona acompañar a las personas en su proceso de crecimiento. Ver sus avances es una satisfacción que, como profesional, me llena de felicidad.",
     "Why": [
       "Lorem ipsum dolor",
       "Tempor incididunt",
@@ -69,7 +69,7 @@
     {
       "icon": "fa fa-tasks",
       "name": "Programas y Talleres",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Fomentamos el bienestar emocional con programas y talleres diseñados para fortalecer la salud mental y desarrollar habilidades emocionales."
     },
     {
       "icon": "fa fa-street-view",
@@ -152,8 +152,8 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
+    "address": "Av. Dos de Mayo - San Isidro",
+    "phone": "+51 935011606",
     "email": "info@company.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",

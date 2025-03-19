@@ -99,10 +99,10 @@ export const Contact = (props) => {
           </div>
           <div className="col-md-3 col-md-offset-1 contact-info">
             <div className="contact-item">
-              <h3>Contact Info</h3>
+              <h3>Información</h3>
               <p>
                 <span>
-                  <i className="fa fa-map-marker"></i> Address
+                  <i className="fa fa-map-marker"></i> Dirección
                 </span>
                 {props.data ? props.data.address : "loading"}
               </p>
@@ -110,7 +110,7 @@ export const Contact = (props) => {
             <div className="contact-item">
               <p>
                 <span>
-                  <i className="fa fa-phone"></i> Phone
+                  <i className="fa fa-phone"></i> Celular
                 </span>{" "}
                 {props.data ? props.data.phone : "loading"}
               </p>
@@ -118,7 +118,7 @@ export const Contact = (props) => {
             <div className="contact-item">
               <p>
                 <span>
-                  <i className="fa fa-envelope-o"></i> Email
+                  <i className="fa fa-envelope-o"></i> Correo
                 </span>{" "}
                 {props.data ? props.data.email : "loading"}
               </p>
@@ -129,20 +129,16 @@ export const Contact = (props) => {
               <div className="social">
                 <ul>
                   <li>
-                    <a href={props.data ? props.data.facebook : "/"}>
+                    <a href={"https://www.facebook.com/profile.php?id=61574177695041&mibextid=wwXIfr&rdid=8O2FovYA5V03z2Eg&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1Ewy8z97mA%2F%3Fmibextid%3DwwXIfr#"}  target="_blank">
                       <i className="fa fa-facebook"></i>
                     </a>
                   </li>
                   <li>
-                    <a href={props.data ? props.data.twitter : "/"}>
-                      <i className="fa fa-twitter"></i>
+                    <a href={"https://www.instagram.com/psico_fabiolamunive?igsh=MXA4c3M0anVoaWdkaw%3D%3D"}  target="_blank">
+                    <i class="fa fa-instagram" aria-hidden="true"></i>
                     </a>
                   </li>
-                  <li>
-                    <a href={props.data ? props.data.youtube : "/"}>
-                      <i className="fa fa-youtube"></i>
-                    </a>
-                  </li>
+               
                 </ul>
               </div>
             </div>
