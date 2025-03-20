@@ -29,7 +29,7 @@ export const Navigation = (props) => {
           </a>{" "}
         </div>
         <div>
-          <a href="https://api.whatsapp.com/send?phone=935011606&text=Hola,%20%C2%A1bienvenid@!%20%F0%9F%8C%BF%20Gracias%20por%20confiar%20en%20este%20espacio.%20Quiero%20recordarte%20que%20aqu%C3%AD%20cuentas%20con%20un%20lugar%20seguro,%20libre%20de%20juicios%20y%20totalmente%20confidencial.%20Si%20en%20alg%C3%BAn%20momento%20tienes%20dudas%20o%20necesitas%20compartir%20algo%20antes%20de%20nuestra%20sesi%C3%B3n,%20no%20dudes%20en%20escribirme.%20%C2%A1Nos%20vemos%20pronto!%20%F0%9F%98%8A%E2%9C%A8"  target="_blank">
+          <a href="https://api.whatsapp.com/send?phone=935011606&text=Hola,%20%C2%A1bienvenid@!%20%F0%9F%8C%BF%20Gracias%20por%20confiar%20en%20este%20espacio.%20Quiero%20recordarte%20que%20aqu%C3%AD%20cuentas%20con%20un%20lugar%20seguro%20y%20totalmente%20confidencial.%20Escr%C3%ADbeme%20tu%20consulta%20y%20te%20estaremos%20atendiendo%20en%20breve.%20%C2%A1Nos%20vemos%20pronto!%20%F0%9F%98%8A%E2%9C%A8"  target="_blank">
 
             <i className="fa fa-whatsapp wsp float" aria-hidden="true"></i>
           </a>
