@@ -1,10 +1,10 @@
 {
   "Header": {
-    "title": "¿Buscas ayuda psicológica?",
-    "paragraph": ""
+    "title": "¿Buscas sentirte bien?",
+    "paragraph": "Nuestros especialistas estan dispuestos para esucharte"
   },
   "About": {
-    "paragraph": "Soy Ivett, psicóloga clínica con una maestría en intervención y diagnóstico del niño y adolescente. Cuento con formación en Terapia de Aceptación y Compromiso (ACT) y más de seis años de experiencia trabajando con niños, adolescentes, adultos y adultos mayores en los ámbitos clínico, educativo y social. A lo largo de mi trayectoria profesional, he tenido la oportunidad de conocer diversas realidades, comprendiendo que cada persona es un mundo por descubrir. Amo mi profesión y me apasiona acompañar a las personas en su proceso de crecimiento. Ver sus avances es una satisfacción que, como profesional, me llena de felicidad.",
+    "paragraph": "Soy Ivett, psicóloga clínica con una maestría en intervención y diagnóstico del niño y adolescente. Cuento con formación en Terapia de Aceptación y Compromiso (ACT) y más de seis años de experiencia trabajando con niños, adolescentes, adultos y adultos mayores en los ámbitos clínico, educativo y social. A lo largo de mi trayectoria profesional, he tenido la oportunidad de conocer diversas realidades, comprendiendo que cada persona es un mundo por descubrir  acompañando a las personas en su proceso de crecimiento. Ver sus avances es una satisfacción que, como profesional, me llena de felicidad.",
     "Why": [
       "Lorem ipsum dolor",
       "Tempor incididunt",
@@ -20,47 +20,47 @@
   },
   "Gallery": [
     {
-      "title": "Project Title",
+      "title": "Entrevista sobre Inteligencia Emocional y Dependencia Emocional",
       "largeImage": "img/historial/historial1.jpg",
       "smallImage": "img/historial/historial1.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Forjando Alianzas: Convenios Hospitalarios para el Bienestar de las Comunidades Nativas",
       "largeImage": "img/historial/historial2.jpg",
       "smallImage": "img/historial/historial2.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Campañas Preventivas",
       "largeImage": "img/historial/historial3.jpg",
       "smallImage": "img/historial/historial3.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Charlas psicologicas",
       "largeImage": "img/historial/historial4.jpg",
       "smallImage": "img/historial/historial4.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "charla sobre la violencia",
       "largeImage": "img/historial/historial5.jpg",
       "smallImage": "img/historial/historial5.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Talleres en colegios",
       "largeImage": "img/historial/historial6.jpg",
       "smallImage": "img/historial/historial6.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "capacitaciones",
       "largeImage": "img/historial/historial7.jpg",
       "smallImage": "img/historial/historial7.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Talleres y charlas ",
       "largeImage": "img/historial/historial8.jpg",
       "smallImage": "img/historial/historial8.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "evaluación y diagnostico",
       "largeImage": "img/historial/historial9.jpg",
       "smallImage": "img/historial/historial9.jpg"
     }
@@ -154,7 +154,7 @@
   "Contact": {
     "address": "Av. Dos de Mayo - San Isidro",
     "phone": "+51 935011606",
-    "email": "info@company.com",
+    "email": "psico.ivettmunive25@gmail.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"

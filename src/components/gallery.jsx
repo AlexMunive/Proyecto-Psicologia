@@ -8,7 +8,7 @@ export const Gallery = (props) => {
         <div className="section-title">
           <h2>Historial</h2>
           <p>
-          "A lo largo de mi carrera como psicóloga, he acompañado a muchas personas en su camino hacia el bienestar emocional. Aquí comparto algunos de los casos más significativos, siempre con respeto y confidencialidad."
+          "A lo largo de mi trayectoria como psicóloga, he tenido el privilegio de acompañar a numerosas personas en su camino hacia el bienestar emocional. En este espacio, comparto algunos de los casos más significativos, siempre con el máximo respeto y compromiso con la confidencialidad."
           </p>
         </div>
         <div className="row">
